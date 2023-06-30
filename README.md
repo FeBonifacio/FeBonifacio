@@ -8,15 +8,6 @@
 ### AMO APRENDER!!!
 
 ### Entre em contato comigo no +55 (11) 94064-4482
-## ou 
-![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/b3636464-f543-4dfc-8e7d-d27daa856f34(https://www.linkedin.com/in/fernando-bonifacio-97538715a/))
-
-
-
-
-
-
-
 
 
 
