@@ -2,13 +2,22 @@
 
 ## Tecnologias que uso no meu dia
 
-    <div style="display: inline_block"><br/>
-        <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-        <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
-        <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-        <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img align="center" alt="nodejs" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <img align="center" alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-    </div>
+![HTML5-E34F26_style=for-the-badge logo=html5 logoColor=white](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/71814928-eb5d-49a6-9977-a39c184cc26e) ![CSS3-1572B6_style=for-the-badge logo=css3 logoColor=white](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/1e2ffe47-4855-41d9-a7cb-f4649e891401) ![Saas-CC6699_style=for-the-badge logo=sass logoColor=white](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/e4dfad65-478e-428d-b928-fb76916ac488) ![JavaScript-F7DF1E_style=for-the-badge logo=javascript logoColor=black](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/f18c161e-9292-43dd-b7c9-36745f652e5b) ![Node js-43853D_style=for-the-badge logo=node](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/d3cb7467-a930-4dfc-b329-c6c600275280) ![TypeScript-007ACC_style=for-the-badge logo=typescript logoColor=white](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/560487ef-4674-4fa8-bf25-20a6a3d62a57) ![React-20232A_style=for-the-badge logo=react logoColor=61DAFB](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/93d8798a-b465-4dbf-b89c-8c2d4fb91dc2) ![PostgreSQL-316192_style=for-the-badge logo=postgresql logoColor=white](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/e786dd87-b8ed-433d-9a4c-7373be0deb6e)
+
+### Descubri que sou apaixonado por programação e pelos desafios dessa carreira, hoje estudo Liguagens e Framework.
+### AMO APRENDER!!!
+
+### Entre em contato comigo no +55 (11) 94064-4482
+## ou 
+![LinkedIn-0077B5_style=for-the-badge logo=linkedin logoColor=white](https://github.com/FeBonifacio/FeBonifacio/assets/103700361/b3636464-f543-4dfc-8e7d-d27daa856f34(https://www.linkedin.com/in/fernando-bonifacio-97538715a/))
+
+
+
+
+
+
+
+
+
+
+    
