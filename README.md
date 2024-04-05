@@ -1,4 +1,4 @@
-### Olá! Me Chamo Fernando Bonifacio 🤙🏿
+### E ai 🤙🏿
 
 ## Tecnologias que uso no meu dia
 
